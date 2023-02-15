@@ -29,3 +29,5 @@ $$ E = mc^2 $$
 ## Slide
 
 - Write me
+
+<img src="img/py.jpeg" class="img-fluid">
